@@ -56,6 +56,7 @@ box_visit_times.update_layout(xaxis_title='Visit Time', yaxis_title='Frequency')
 
 # Create Dash app
 app = dash.Dash(__name__)
+server = app.server
 
 app.layout = html.Div([
     html.H1("Web Server Log Analysis Dashboard"),

@@ -3,6 +3,7 @@ from ip2geotools.databases.noncommercial import DbIpCity
 import plotly.express as px
 import plotly.graph_objects as go
 import dash
+import gunicorn
 from dash import dcc, html
 
 # Load the CSV file

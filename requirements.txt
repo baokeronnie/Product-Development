@@ -1,4 +1,3 @@
 dash
 pandas
-gunicon
 ip2geotools

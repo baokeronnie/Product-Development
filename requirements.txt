@@ -2,3 +2,4 @@ dash==2.0.0
 gunicorn
 pandas
 ip2geotools
+werkzeug==2.0.2

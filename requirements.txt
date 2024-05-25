@@ -1,4 +1,4 @@
-dash==2.0.0
+dash==2.3.1
 gunicorn
 pandas
 ip2geotools
